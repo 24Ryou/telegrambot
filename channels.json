@@ -1,0 +1,20 @@
+{
+    "kouman": {
+        "channel_id": "UCa-ZgzdNQYDOet7t_yrcPHw",
+        "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCa-ZgzdNQYDOet7t_yrcPHw",
+        "channel_name": "Kouman",
+        "last_video_id": null
+    },
+    "moresidemen": {
+        "channel_id": "UCh5mLn90vUaB1PbRRx_AiaA",
+        "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh5mLn90vUaB1PbRRx_AiaA",
+        "channel_name": "MoreSidemen",
+        "last_video_id": null
+    },
+    "sidemen": {
+        "channel_id": "UCDogdKl7t7NHzQ95aEwkdMw",
+        "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDogdKl7t7NHzQ95aEwkdMw",
+        "channel_name": "Sidemen",
+        "last_video_id": null
+    }
+}
