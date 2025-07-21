@@ -5,6 +5,8 @@ from telegram import BotCommand, Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, MessageHandler, filters
 import youtube
 from telegraph import Telegraph
+from dotenv import load_dotenv
+import os
 
 CHANNELS_FILE = "channels.json"
 user_states = {}  # user_id -> "youtube_adding"
@@ -162,7 +164,7 @@ if __name__ == "__main__":
     import logging
     from telegram.ext import Application
 
-    TOKEN = "7958605710:AAEPJxGN_lie6MZaStMO-njYxvCUucNeQ14"
+    TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 
     logging.basicConfig(level=logging.INFO)
 

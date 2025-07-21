@@ -5,3 +5,4 @@ __pycache__/
 *$py.class
 venv/
 channels.json
+.env
