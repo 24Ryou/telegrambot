@@ -16,5 +16,17 @@
         "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDogdKl7t7NHzQ95aEwkdMw",
         "channel_name": "Sidemen",
         "last_video_id": null
+    },
+    "sidemenreacts": {
+        "channel_id": "UCjRkTl_HP4zOh3UFaThgRZw",
+        "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjRkTl_HP4zOh3UFaThgRZw",
+        "channel_name": "SidemenReacts",
+        "last_video_id": null
+    },
+    "ksi": {
+        "channel_id": "UCGmnsW623G1r-Chmo5RB4Yw",
+        "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGmnsW623G1r-Chmo5RB4Yw",
+        "channel_name": "KSI",
+        "last_video_id": null
     }
 }
